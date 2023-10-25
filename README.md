@@ -1,5 +1,5 @@
 # ProductsUp
-
+After unzipping the folder run the following commands
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
 ## Development server
